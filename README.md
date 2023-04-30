@@ -1,2 +1,2 @@
 # Cloud-Computing-Project
-This is where you can find all our project files!!
+This is where you can our order-service folder for our project.
